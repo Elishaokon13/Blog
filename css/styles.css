@@ -139,7 +139,7 @@
   color: #ff5e14;
 }
 
-@media only screen and (max-width: 577px) {
+@media only screen and (max-width: 100%) {
   .blog_section .owl-nav .owl-prev {
     left: -17px;
   }
