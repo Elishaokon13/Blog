@@ -141,9 +141,9 @@
 
 @media only screen and (max-width: 577px) {
   .blog_section .owl-nav .owl-prev {
-    left: 50% !important;
+    left: -17px;
   }
   .blog_section .owl-nav .owl-next {
-    right: 50% !important;
+    right: -17px;
   }
 }
